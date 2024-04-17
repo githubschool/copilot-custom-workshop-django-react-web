@@ -24,11 +24,11 @@ As a GitHub engineer who delivers this workshop, you should make sure that you h
 
 - Access to Copilot license
 - Access to Copilot Chat with Copilot for Business License
-- Visual Studio Code with Copilot and Copilot Chat
-- Docker with an ability to get base images from DockerHub
-- You have Python and PIP installed on your computer and can install dependencies
-- You have NodeJS installed
-- Have Git CLI installed for Microsoft Windows or Termina with git for Mac or Linux
+- [Visual Studio Code](https://code.visualstudio.com/download) with [Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) and [Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+- [Docker](https://docs.docker.com/engine/install/) with an ability to get base images from DockerHub
+- You have [Python](https://www.python.org/downloads/) and [PIP](https://pip.pypa.io/en/stable/cli/pip_install/) installed on your computer and can install dependencies
+- You have [NodeJS](https://nodejs.org/en/download) installed
+- You have the [Git CLI](https://git-scm.com/downloads) installed
 
 ## Expected Outcomes
 
